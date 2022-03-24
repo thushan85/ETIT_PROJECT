@@ -40,7 +40,7 @@ MSc. in Enterprise Application Development 2021 - 2022
 
 --------------------- BY -----------------------------------------
 
-ms21912498@my.sliit.lk - Sithira Munasinghe
-ms21910968@my.sliit.lk - Pasindu Weerakoon
-ms21912702@my.sliit.lk - Thushan Ranasighe
-ms21912566@my.sliit.lk - Sanura Wijayarathne
+ms21912498@my.sliit.lk - Sithira Munasinghe.  / 
+ms21910968@my.sliit.lk - Pasindu Weerakoon.   /
+ms21912702@my.sliit.lk - Thushan Ranasighe.   /
+ms21912566@my.sliit.lk - Sanura Wijayarathne. /
